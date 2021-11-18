@@ -1,0 +1,24 @@
+html {
+    background-color: #e4e4e4;
+}
+
+#footercontainer {
+    background-color: #e4e4e4;
+}
+
+#formcol {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+    border-color: #ddd;
+    padding: 25px 25px 25px 25px;
+}
+
+/*
+Things to do with specific styling on the amazon page:
+1. Customize box-shadow on the form-control input element
+2. Link styling - what does a link look like when :hover or :visited - do the amazon link change color? are they underlined?
+3. Button color - has a gradient - linear gradients
+4. ----- lines ------ around "New to amazon?" *this one is particularly tricky
+5. the radial gradient on the border on the footer - also tricky
+*/
